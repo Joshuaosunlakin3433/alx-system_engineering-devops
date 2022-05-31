@@ -1,1 +1,1 @@
-scripts for rediredtion of processes in linux
+read me
