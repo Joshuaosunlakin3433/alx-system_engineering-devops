@@ -1,0 +1,1 @@
+readmefor shell variables expansions
